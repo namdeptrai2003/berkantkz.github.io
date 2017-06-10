@@ -5,12 +5,12 @@ body {
 	font-family:Ropa Sans,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	color:#fff;
 	font-weight:300;
-	/* 
-	background:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('../img/ata.jpg') no-repeat center center fixed;
+	 
+	background:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('../img/ata2.jpg') no-repeat center center fixed;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	background-size:cover;
-	-o-background-size:cover; */
+	-o-background-size:cover; 
 }
 html {
 	width:100%;
