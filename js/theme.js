@@ -51,6 +51,6 @@ $(function() {
 			],
 	secilen_arkaplan = arkaplan[Math.floor(Math.random() * arkaplan.length)];
 	
-	document.body.style.background = "radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('img/" + secilen_arkaplan + "') no-repeat 100% 100% fixed";
+	document.body.style.background = "radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('img/" + secilen_arkaplan + "') no-repeat center center fixed";
 	document.body.style.backgroundSize = "cover";
 }); 
