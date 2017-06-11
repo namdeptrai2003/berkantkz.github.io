@@ -54,6 +54,7 @@ $(function() {
 			"ata5.jpg",
 			"ata6.jpg",
 			//"ata7.jpg",
+			"ata8.jpg",
 			"ata9.png",
 			"ata10.jpg",
 			],
