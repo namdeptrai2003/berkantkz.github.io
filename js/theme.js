@@ -35,7 +35,8 @@ $(function() {
 		"Muhtaç olduğun kudret, damarlarındaki asil kanda, mevcuttur.",
 		"Türk milleti istiklalsiz yaşamamıştır, yaşayamaz ve yaşamayacaktır.",
 		"Türk kuvvet ve zekâsının yenmediği ve yenemeyeceği güçlük yoktur.",
-	    	"Türk! Övün, çalış, güven."
+	    "Türk! Övün, çalış, güven.",
+		"İstikbâl göklerdedir."
 		],
         secilen_soz = sozler[Math.floor(Math.random() * sozler.length)];
 		
@@ -47,7 +48,14 @@ $(function() {
 $(function() {
 	var arkaplan = [
 			"ata.jpg",
-			"ata2.jpg"
+			"ata2.jpg",
+			"ata3.jpg",
+			"ata4.jpg",
+			"ata5.jpg",
+			"ata6.jpg",
+			"ata7.jpg",
+			"ata9.png",
+			"ata10.jpg",
 			],
 	secilen_arkaplan = arkaplan[Math.floor(Math.random() * arkaplan.length)];
 	
