@@ -53,10 +53,10 @@ $(function() {
 			"ata4.jpg",
 			"ata5.jpg",
 			"ata6.jpg",
-			//"ata7.jpg",
 			"ata8.jpg",
 			"ata9.png",
 			"ata10.jpg",
+			"ata11.jpg",
 			],
 	secilen_arkaplan = arkaplan[Math.floor(Math.random() * arkaplan.length)];
 	
